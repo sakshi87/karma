@@ -461,7 +461,7 @@
     "mocha": "^4.1.0",
     "mocks": "^0.0.15",
     "proxyquire": "^2.1.0",
-    "puppeteer": "^1.9.0",
+    "puppeteer": "^4.0.0",
     "semantic-release": "^15.14.0",
     "sinon": "^7.3.2",
     "sinon-chai": "^3.0.0",
