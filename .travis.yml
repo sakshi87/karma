@@ -40,7 +40,7 @@ jobs:
 
 before_install:
   - npm config set loglevel warn
-  - apt-get install chromium-browser
+  - sudo apt-get install chromium-browser
   - export CHROME_BIN=/usr/bin/chromium-browser
 
 addons:
