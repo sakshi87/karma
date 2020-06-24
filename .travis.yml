@@ -2,6 +2,8 @@ os: linux
 dist: xenial
 language: node_js
 
+arch: arm64
+
 jobs:
   include:
     - node_js: "10"
