@@ -44,8 +44,5 @@ before_install:
   - export CHROME_BIN=/usr/bin/chromium-browser
   - export DISPLAY=:1
 
-addons:
-  firefox: "latest"
-
 services:
   - xvfb
